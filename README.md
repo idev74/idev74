@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, my name is Isabella!
+#### ACS major and Shopify intern (She/Her)
+![banner](https://user-images.githubusercontent.com/77900249/225109464-e31343c1-5168-49ae-97d4-d25879498d73.png)
 
-<!--
-**idev74/idev74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an 18 year old studying 📚 at Dominican University of California 🐧 and working as a software development intern 💻 through Shopify's Dev Degree program. 
+I hope to continue studying computer science and build impactful projects!
 
-Here are some ideas to get you started:
+## Skills: 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/idev74)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/isabelladevassy/)  
