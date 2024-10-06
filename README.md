@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Isabella!
-#### ACS major and Shopify intern (She/Her)
+#### ACS major (She/Her)
 ![banner](https://user-images.githubusercontent.com/77900249/225109464-e31343c1-5168-49ae-97d4-d25879498d73.png)
 
-Currently studying 📚 at Dominican University of California 🐧 and working as a software development intern 💻 through Shopify's Dev Degree program. 
+Currently studying 📚 at Dominican University of California 🐧. 
 
 I hope to continue studying computer science and build impactful projects!
 
