@@ -1,10 +1,6 @@
 ### Hi there 👋, my name is Isabella!
-#### ACS major (She/Her)
+(She/Her)
 ![banner](https://user-images.githubusercontent.com/77900249/225109464-e31343c1-5168-49ae-97d4-d25879498d73.png)
-
-Currently studying 📚 at Dominican University of California 🐧. 
-
-I hope to continue studying computer science and cybersecurity and build impactful projects!
 
 ## Skills: 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
