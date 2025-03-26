@@ -2,6 +2,8 @@
 (She/Her)
 ![banner](https://user-images.githubusercontent.com/77900249/225109464-e31343c1-5168-49ae-97d4-d25879498d73.png)
 
+I'm a software developer specializing in backend development and interested in studying  cybersecurity!
+
 ## Skills: 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
